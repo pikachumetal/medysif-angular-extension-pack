@@ -1,0 +1,46 @@
+{
+  "name": "medysif-angular-extension-pack",
+  "displayName": "Medysif Angular Extension Pack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pikachumetal/medysif-angular-extension-pack"
+  },
+  "description": "Medysif Angular Extension Pack",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "alefragnani.Bookmarks",
+    "Angular.ng-template",
+    "christian-kohler.npm-intellisense",
+    "codezombiech.gitignore",
+    "cyrilletuzi.angular-schematics",
+    "DavidAnson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "IBM.output-colorizer",
+    "kisstkondoros.vscode-codemetrics",
+    "mhutchie.git-graph",
+    "nicoespeon.abracadabra",
+    "nrwl.angular-console",
+    "oderwat.indent-rainbow",
+    "pflannery.vscode-versionlens",
+    "PKief.material-icon-theme",
+    "redhat.vscode-commons",
+    "redhat.vscode-xml",
+    "redhat.vscode-yaml",
+    "SonarSource.sonarlint-vscode",
+    "streetsidesoftware.code-spell-checker",
+    "streetsidesoftware.code-spell-checker-catalan",
+    "streetsidesoftware.code-spell-checker-spanish",
+    "Tyriar.sort-lines"
+  ]
+}
