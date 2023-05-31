@@ -10,6 +10,7 @@
   "engines": {
     "vscode": "^1.78.0"
   },
+  "publisher": "adelgado",
   "categories": [
     "Extension Packs"
   ],
